@@ -6,6 +6,6 @@ If you are interested in collaborating or contributing to my open source project
 
 <div align="center">
   <a href="https://github.com/austinborn/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=austinborn&title_color=48a169&text_color=38a169&bg_color=3a4558&include_all_commits=true" alt="Austin's Github stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=austinborn&title_color=48a169&text_color=38a169&bg_color=3a4558" alt="Austin's Github stats">
   </a>
 </div>
