@@ -1,6 +1,6 @@
 ## About Austin
 
-Hello, I'm the Founder of [Shinzo Labs](https://www.shinzo.ai/)! I develop AI tooling solutions both for open source and enterprise use cases. Previously I spent 5 years working in the blockchain/DeFi space building decentralized oracles, on-chain data feeds, and digital asset trading systems.
+Hello, I'm the Founder of [Shinzo Labs](https://www.shinzo.ai/)! I'm currently building the composable MCP Analytics stack at Shinzo. I'm excited to develop AI tooling solutions both for open source and enterprise use cases. Previously I spent 5 years working in the blockchain/DeFi space building decentralized oracles, on-chain data feeds, and digital asset trading systems.
 
 If you are interested in collaborating or contributing to my open source projects, you can reach me at austin@shinzolabs.com.
 
